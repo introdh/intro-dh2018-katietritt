@@ -12,4 +12,4 @@
 1. This summer I interacted with [Soccer Film] from previous games played. This was memorable to me because it helped me gain better understanding of the game of soccer.
 Link: <https://richmond.app.box.com/file/279921132339>
 2. I also vacationed in Kissimee, FLorida and went to [Walt Disney World] with my family. 
-Link: ![alt text][http://time.com/money/4749180/walt-disney-world-tickets-prices-cost/ "Walt Disney World"]
+Link: ![alt text](http://time.com/money/4749180/walt-disney-world-tickets-prices-cost/) "Walt Disney World"
