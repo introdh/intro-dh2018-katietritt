@@ -9,5 +9,5 @@
 3. I chose to take this course because I have never taken anything like this course and I am excited for something different and new. 
 
 ### Digital 
-* This summer I interacted with [Soccer Film] (https://youtu.be/XqOw7Bv9ars) from previous games played. This was memorable to me because it helped me gain better understanding of the game of soccer.
+* This summer I interacted with [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XM23h-eJ08A/0.jpg)](https://youtu.be/XM23h-eJ08A) from previous games played. This was memorable to me because it helped me gain better understanding of the game of soccer.
 * I also vacationed in Kissimee, Florida and went to Walt Disney World. ![alt text](https://static.parade.com/wp-content/uploads/2017/06/Disney-World-Cinderella-Castle-FTR.jpg "Walt Disney World")
