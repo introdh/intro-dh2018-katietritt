@@ -19,6 +19,19 @@ Networks are a great tool to be used, but there are also limitations and constra
 
 **Analysis of Graphs** 
 
+plot_year()
+
+plot_vote()
+
+plot_issue()
+
+plot_centrality()
+
+plot_cluster()
+
+plot_gatekeeper()
+
+
 
 
 
