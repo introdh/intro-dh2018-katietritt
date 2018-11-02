@@ -19,17 +19,19 @@ Networks are a great tool to be used, but there are also limitations and constra
 
 **Analysis of Graphs** 
 
-plot_year()
+**Plot_Year**
+![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20year.png "Logo Title Text 1")
 
-plot_vote()
+**Plot_Vote**
+![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20vote.png "Logo Title Text 1")
 
-plot_issue()
+**Plot_Issue**
+![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20issue.png "Logo Title Text 1")
 
 
 **Plot_Cluster**
 ![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20cluster.png "Logo Title Text 1")
 
-plot_gatekeeper()
 
 **Plot_Centrality**
 ![alt text](https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20centrality.png "Logo Title Text 1")
