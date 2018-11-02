@@ -17,7 +17,10 @@ The two different kinds of cases being analyzed throughout this network are very
 
 Networks are a great tool to be used, but there are also limitations and constraints. First we will discuss the possibilites of limits. Through analysis of networks we are able to simply find relation amongst topics and ideas. Through visual aids, graphs and charts, we are able to find connections and understand how topics fit together. In contrast, limitations to Networking exist. "Networks can be used on any project. Networks should be used on far fewer"(Weingart 2011). Also, methodology appropriation is dangerous. This means that as methodology gets translated over time, there can be danger in the "borrowing". Although there are constraints, we find that after analysis of this network, we are able to draw many connections between welfare benefits and access to public education. While immigrants are in the process of naturalization, or if the immigrants have gained their citizenship, their struggle to gain the same benefits and access to specific things comes into play for these individuals. 
 
-**Analysis of Graphs** 
+
+**Analysis of Graphs**
+
+
 
 **Plot_Year**
 ![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20year.png "Logo Title Text 1")
@@ -28,10 +31,8 @@ Networks are a great tool to be used, but there are also limitations and constra
 **Plot_Issue**
 ![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20issue.png "Logo Title Text 1")
 
-
 **Plot_Cluster**
 ![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20cluster.png "Logo Title Text 1")
-
 
 **Plot_Centrality**
 ![alt text](https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20centrality.png "Logo Title Text 1")
