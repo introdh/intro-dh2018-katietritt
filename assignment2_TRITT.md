@@ -25,13 +25,13 @@ plot_vote()
 
 plot_issue()
 
-plot_centrality()
 
-plot_cluster()
+**Plot_Cluster**
+![alt text]( https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20cluster.png "Logo Title Text 1")
 
 plot_gatekeeper()
 
-
+**Plot_Centrality**
 ![alt text](https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20centrality.png "Logo Title Text 1")
 
 
