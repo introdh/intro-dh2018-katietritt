@@ -32,6 +32,6 @@ plot_cluster()
 plot_gatekeeper()
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/introdh/intro-dh2018-katietritt/blob/master/images/plot%20centrality.png "Logo Title Text 1")
 
 
