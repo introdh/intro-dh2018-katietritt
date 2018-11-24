@@ -1,6 +1,8 @@
 # Grant Workshop Response 
 
 **1. Formulate the questions guiding the humanities project.
+
+
 Throughout my project, the main questions guiding the project will be:
 *What areas in the United States have the highest rates of poverty and homelessness?
 *What are the commonalities amongst the areas with the highest rates?
