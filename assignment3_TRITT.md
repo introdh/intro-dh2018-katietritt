@@ -8,7 +8,8 @@ most time. Building my map in ARCGIS Online was actually very enjoyable for me. 
 I was able to organize things the way I wanted and create a personable space where I can organize my data. I feel that with the
 Story Map I was able to be creative and create a unique place to show my work through a interactive journal. The points I decided
 to select in my Map were very different. I tried my best to use many features to fully take advantage of my Map and be more unique
-in my creation of my Map. 
+in my creation of my Map. As I mentioned before, I found Mapping and Spatial Analysis to be, by far, my favorite form of Digital Humanities Analysis so far. I feel that through the process of working with different kinds of data and different projects, you are able to find what you really enjoy most. As I have found this project to be my favorite, I will continue my 
+skills in this area and use it in my final project. 
 
 **2. Constraints, Critiques and Ideas...**
 
@@ -28,3 +29,8 @@ Mapping and Spatial Data/ Analysis we are able to create models, and journals to
 for all kinds of subjects and can continue to advance our knowledge. 
 
 **4. Links** 
+
+http://arcg.is/1iuCWT
+<iframe width="100%" height="800px" src="http://urichmond.maps.arcgis.com/apps/MapJournal/index.html?appid=e157a32201574bec8819e14e7d51f772" frameborder="0" scrolling="no"></iframe>
+
+https://docs.google.com/spreadsheets/d/1MneBpslKiTxFTxSWYfEYlzeZ1nE1-jd9adoF81GXXTo/edit#gid=326811030
