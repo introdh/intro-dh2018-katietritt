@@ -31,6 +31,6 @@ for all kinds of subjects and can continue to advance our knowledge.
 **4. Links** 
 
 Story Map: [here.](http://arcg.is/1iuCWT)
-(<iframe width="100%" height="800px" src="http://urichmond.maps.arcgis.com/apps/MapJournal/index.html?appid=e157a32201574bec8819e14e7d51f772" frameborder="0" scrolling="no"></iframe>)
 
-Spatial Data: [here.] (https://docs.google.com/spreadsheets/d/1MneBpslKiTxFTxSWYfEYlzeZ1nE1-jd9adoF81GXXTo/edit#gid=326811030)
+
+Spatial Data: [here.](https://docs.google.com/spreadsheets/d/1MneBpslKiTxFTxSWYfEYlzeZ1nE1-jd9adoF81GXXTo/edit#gid=326811030)
