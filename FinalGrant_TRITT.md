@@ -65,8 +65,8 @@ Collaborators: The collaborators are very important group of individuals needed 
 - https://www.socialexplorer.com/?gclid=CjwKCAiA0O7fBRASEiwAYI9QAkAeFeJev4qwXjhewX4KTGIhllVr0HpqAD7f0SnrQQYPS3_ZxaI1JRoCy1oQAvD_BwE
 - https://www.antievictionmap.com
 
-“Beyond GIS: Geospatial Technologies and the Future of History.”
-White, Richard. “What is spatial history?” February 1, 2010
-"What is GIS?" UWisconsin LibGuide.
-American Panorama
-Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010. Chapter 1
+- “Beyond GIS: Geospatial Technologies and the Future of History.”
+- White, Richard. “What is spatial history?” February 1, 2010
+- "What is GIS?" UWisconsin LibGuide.
+- American Panorama
+- Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010. Chapter 1
