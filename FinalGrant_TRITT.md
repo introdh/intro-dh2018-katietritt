@@ -62,8 +62,8 @@ Advisory Board Members: These group of individuals are close friends with the pr
 Collaborators: The collaborators are very important group of individuals needed in this project. As well as the Advisory Board Members, the collaborators are well trusted individuals who are creative and have the humanities qualifications that will enable them to fulfill their tasks fully in this project. These individuals work passionately and creatively behind the scenes to achieve the ultimate goal of eradicating and eliminating homelessness in the United States. 
 
 ## Appendices: 
-https://www.socialexplorer.com/?gclid=CjwKCAiA0O7fBRASEiwAYI9QAkAeFeJev4qwXjhewX4KTGIhllVr0HpqAD7f0SnrQQYPS3_ZxaI1JRoCy1oQAvD_BwE
-https://www.antievictionmap.com
+(https://www.socialexplorer.com/?gclid=CjwKCAiA0O7fBRASEiwAYI9QAkAeFeJev4qwXjhewX4KTGIhllVr0HpqAD7f0SnrQQYPS3_ZxaI1JRoCy1oQAvD_BwE)
+(https://www.antievictionmap.com)
 “Beyond GIS: Geospatial Technologies and the Future of History.”
 White, Richard. “What is spatial history?” February 1, 2010
 "What is GIS?" UWisconsin LibGuide.
